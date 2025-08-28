@@ -7,8 +7,6 @@ Um chatbot com Inteligência Artificial para **democratizar a educação finance
 ---
 
 ### 🚀 **Como começar?**
-Siga o passo a passo na pasta `instruções` para executar o projeto na sua máquina.
+Siga o passo a passo no link a seguir `https://drive.google.com/file/d/1p2cGCEzKE-s-kCRl9GJZeBNjxx-5AuJu/view?usp=drive_link` para executar o projeto na sua máquina.
 
-### ✨ **O que ele faz?**
-Explore o exemplo de uso na pasta `demonstração` para ver todas as funcionalidades.
 
